@@ -1,14 +1,11 @@
-#### 多项式伪除程序执行步骤
+# Polynomial pseudo-divider program execution steps
 
-1. step1:将需要计算的数据用txt文件存储,放在程序文件夹的根目录下；
+Step1: store the data to be calculated with TXT file and put it in the root directory of the program folder;
 
-2. step2:在终端执行make；
+Step2: make in the terminal;
 
-3. step3:执行./poly.exe；
+Step3: implement./poly.exe;
 
-4. step4:计算结果直接在程序文件夹的根目录下查看；
+Step4: directly view the calculation results in the root directory of the program folder;
 
-5. step5:执行make clean
-
-   
-
+Step5: make clean
